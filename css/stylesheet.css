@@ -29,3 +29,19 @@ body
 {
 	color:#D8A529;
 }
+
+.centre
+{
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+}
+
+footer
+{
+	position: relative;
+	left: 0;
+	bottom: 0;
+	color: white;
+	text-align: center;
+}
