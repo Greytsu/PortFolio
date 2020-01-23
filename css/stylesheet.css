@@ -1,6 +1,31 @@
 
 body
 {
-    background-color: #F7CCCC; /* The page background will be black */
+    background-color: #15202B; /* The page background will be black */
     color: white; /* The page text will be white */
+}
+
+.text
+{
+	color : #E4B936;
+}
+
+.brand
+{
+	color:#D8A529;
+}
+
+.brand:hover
+{
+	color:#D8A529;
+}
+
+.onglet
+{
+	color:#A57F22;
+}
+
+.onglet:hover
+{
+	color:#D8A529;
 }
