@@ -17,22 +17,11 @@
 
 <body>
 	<div class='centre border-left border-right border-bottom border-top rounded-bottom rounded-top'>
-			<br>
-			<?php echo $content; ?>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
+			
+				<span class="text">
+					<?php echo $content; ?>
+				</span>
+			
 			<br>
 			<br>
 			<br>
@@ -79,6 +68,7 @@
 	</div>
 </body>
 
+<br>
 <br>
 
 <footer class='centre border-left border-right border-top rounded-top'>

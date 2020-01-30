@@ -1,1 +1,1 @@
-<p>J'ai fais un bac S, un debut de licence et un bts ensuite</p>
+J'ai fais un bac S, un debut de licence et un bts ensuite

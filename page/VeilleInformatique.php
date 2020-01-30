@@ -1,1 +1,1 @@
-<p>Jvai faire une veille tecnhologique sur les IA comme tout le monde</p>
+Jvai faire sur Azure dev ops

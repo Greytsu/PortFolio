@@ -1,1 +1,0 @@
-<p>Jvai parler des lgbt</p>

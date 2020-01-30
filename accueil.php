@@ -1,1 +1,1 @@
-<p>Le bts sio slam c'est de l'informatique pour les nuls</p>
+Le bts sio slam c'est de l'informatique pour les nuls
